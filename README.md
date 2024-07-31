@@ -1,2 +1,4 @@
 # Study_Python_Alura
-File the course python in Alura
+My notes from the python course at Alura
+
+
